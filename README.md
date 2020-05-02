@@ -10,6 +10,6 @@ View a demo on YouTube here: (https://youtu.be/ROYRyhHbOJE)
 
 ## *Usage*
 
-./DomainBrute.py
+./DNShistory
 
-Make sure the subdomain_list.txt file is in the same directory as DomainBrute.py<br/>Alternatively, enter the path to your own custom list at the prompt<br/><br/>Enter the domain you want to discover subdomains for and press enter.
+The script will run and prompt you for a domain to discover historical IP addresses for.
