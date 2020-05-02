@@ -1,4 +1,4 @@
-# DomainBrute
+# DNSHistory
 
 Visit us at (https://redmoonsecurity.com)
 
@@ -6,7 +6,7 @@ Visit us at (https://redmoonsecurity.com)
 
 View a demo on YouTube here: (https://youtu.be/ROYRyhHbOJE)
 
-![DomainBrute Screenshot](https://user-images.githubusercontent.com/62467907/79632647-f8d87400-8160-11ea-95d5-85893bad49d8.png)
+![screen of DNShistory](https://user-images.githubusercontent.com/62467907/80868367-62e13500-8c9a-11ea-9131-af622acd7254.png)
 
 ## *Usage*
 
