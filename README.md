@@ -2,7 +2,7 @@
 
 Visit us at (https://redmoonsecurity.com)
 
-**A python script purely for discovering historic IP addresses for a domain.**
+**A python script purely for discovering historic IP addresses for a domain that could point to the origin server and allow you to bypass WAF**
 
 View a demo on YouTube here: (https://youtu.be/ROYRyhHbOJE)
 
